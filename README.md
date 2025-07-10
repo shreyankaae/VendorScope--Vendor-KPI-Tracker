@@ -41,29 +41,3 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run main.py
-
-## 📸 Screenshots
-
-### 🧾 Upload Vendor Data
-![Upload](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/import.png?raw=true)
-
-### 📊 KPI Summary Table
-![KPI Table](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/kpi%20summary%20table.png?raw=true)
-
-### 🔥 KPI Heatmap
-![Heatmap](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/kpi%20heatmap.png?raw=true)
-
-### 📈 Avg Delivery Delay Trend
-![Delay Trend](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/average%20delivery%20delay.png?raw=true)
-
-### 📊 PO Spend Box Plot
-![Spend Box Plot](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/PO%20SPEND%20-%20box%20and%20whisker.png?raw=true)
-
-### 🧭 Radar Chart (Selected Vendor)
-![Radar](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/radar%20chart.png?raw=true)
-
-### 📋 KPI Summary Cards
-![Cards](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/kpi%20cards.png?raw=true)
-
-### 📥 Download Reports
-![Download](https://github.com/your-username/VendorScope-Vendor-KPI-Tracker/blob/main/images/download%20report.png?raw=true)
